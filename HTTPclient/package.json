@@ -1,0 +1,11 @@
+{
+  "name": "WebConsumer",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "request": "^2.78.0"
+  }
+}
