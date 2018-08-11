@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "HTTPclient/package.json",
+        "express-generator-app/package.json"
+      ]
+    }
+  }
+}
